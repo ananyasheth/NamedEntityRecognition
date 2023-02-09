@@ -28,5 +28,5 @@ In this example, the confusion matrix indicates that the model has a high degree
 
 ### Usage
 
-The code for the Named Entity Recognition model can be found in the `ner_model.py` file in this repository. The code can be run using a Python interpreter, and the required dependencies can be installed using the `requirements.txt` file. The GMB Dataset can be downloaded from the CoNLL 2002 website.
+The code for the Named Entity Recognition model can be found in the `NER - Spacy.ipynb` file in this repository. The dataset for the same can be found in the `ner_dataset` file. The GMB Dataset can be downloaded from the CoNLL 2002 website.
 
